@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
@@ -17,6 +18,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj",
+    "preferredEditor": "blocksprj",
     "documentation": "/courses/blocks-to-javascript/writing-code"
 }
